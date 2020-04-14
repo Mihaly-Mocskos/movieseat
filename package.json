@@ -1,0 +1,16 @@
+{
+  "name": "movieseatbooking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mocskosmihaly.github.io/movieseatbooking/",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
